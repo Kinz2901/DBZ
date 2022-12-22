@@ -129,18 +129,11 @@ footer {
     display:flex;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.363);
     padding-bottom: 20px;
+    display: flex;
 }
 
-nomes {
-    width: 400px;
-}
-
-nomes {
-    width: 400px;
-}
-
-p.nomes {
+footer p {
     font-size: 1.1em;
     text-align: center;
-    margin: 0px;
+    margin: 10px;
 }
