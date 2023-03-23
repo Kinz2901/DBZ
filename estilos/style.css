@@ -17,6 +17,10 @@
 
 body {
     background-color: rgb(2, 99, 226);
+    background-image: url(../imagens/fundo-dbz);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 header {
